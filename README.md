@@ -1,1 +1,1 @@
-https://vercel.com/faheem-farooqs-projects/ai-career-copilot/ANMiWaP4ZzmP7yhzxyPT1NPgJZUC
+https://ai-career-copilot-flame.vercel.app/
